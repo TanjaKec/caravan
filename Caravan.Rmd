@@ -35,3 +35,13 @@ class: center, middle
 ```{r, out.width = "900px", echo=FALSE}
 knitr::include_graphics("images/Slide3.png")
 ```
+
+---
+
+class: inverse, center, middle
+
+```{r, out.width = "400px", echo=FALSE}
+knitr::include_graphics("images/DataLiteracy.jpg")
+```
+
+### <https://dataliteracy.netlify.com/>
