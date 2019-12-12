@@ -1,8 +1,8 @@
 ---
-title: "Data Literacy"
-subtitle: "The Universal Language Of The Fourth Industrial Revolution"
+title: "Data and Community"
+subtitle: "Tatjana Kecojevic"
 author: "SisterAnalyst.org"
-date: "Subotica, December 2019"
+date: "Belgrade, December 2019"
 output:
   xaringan::moon_reader:
     css: ["default", "css/ohsu.css", "css/ohsu-fonts.css"]
@@ -16,29 +16,120 @@ output:
 ```{r setup, include=FALSE}
 options(htmltools.dir.version = FALSE)
 ```
-class:  center, middle
+
+class: center, middle
 
 ```{r, out.width = "1000px", echo=FALSE}
-knitr::include_graphics("images/Slide1.png")
+knitr::include_graphics("images/Slides2.png")
+```
+---
+class: center, middle
+
+```{r, out.width = "900px", echo=FALSE}
+knitr::include_graphics("images/Slides3.png")
 ```
 
 ---
 class: center, middle
 
 ```{r, out.width = "900px", echo=FALSE}
-knitr::include_graphics("images/Slide2.png")
+knitr::include_graphics("images/Slides4.png")
+```
+
+---
+
+class: center, middle
+
+```{r, out.width = "900px", echo=FALSE}
+knitr::include_graphics("images/Slides5.png")
 ```
 
 ---
 class: center, middle
 
 ```{r, out.width = "900px", echo=FALSE}
-knitr::include_graphics("images/Slide3.png")
+knitr::include_graphics("images/Slides6.png")
 ```
 
 ---
+class: center, middle
 
-class: inverse, center, middle
+```{r, out.width = "900px", echo=FALSE}
+knitr::include_graphics("images/Slides7.png")
+```
+
+---
+class: center, middle
+
+```{r, out.width = "900px", echo=FALSE}
+knitr::include_graphics("images/Slides8.png")
+```
+
+---
+class: center, middle
+
+```{r, out.width = "900px", echo=FALSE}
+knitr::include_graphics("images/Slides9.png")
+```
+
+---
+class: center, middle
+
+```{r, out.width = "900px", echo=FALSE}
+knitr::include_graphics("images/Slides10.png")
+```
+
+---
+class: center, middle
+
+```{r, out.width = "900px", echo=FALSE}
+knitr::include_graphics("images/Slides11.png")
+```
+
+---
+class: center, middle
+
+```{r, out.width = "900px", echo=FALSE}
+knitr::include_graphics("images/Slides12.png")
+```
+
+---
+class: center, middle
+
+```{r, out.width = "900px", echo=FALSE}
+knitr::include_graphics("images/Slides13.png")
+```
+
+---
+class: center, middle
+
+```{r, out.width = "900px", echo=FALSE}
+knitr::include_graphics("images/Slides14.png")
+```
+
+---
+class: center, middle
+
+```{r, out.width = "900px", echo=FALSE}
+knitr::include_graphics("images/Slides15.png")
+```
+
+---
+class: center, middle
+
+```{r, out.width = "900px", echo=FALSE}
+knitr::include_graphics("images/Slides16.png")
+```
+
+---
+class: center, middle
+
+```{r, out.width = "900px", echo=FALSE}
+knitr::include_graphics("images/Slides17.png")
+```
+
+---
+class: center, middle
 
 ```{r, out.width = "400px", echo=FALSE}
 knitr::include_graphics("images/DataLiteracy.jpg")
